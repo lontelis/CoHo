@@ -1,4 +1,4 @@
-# CoHo constraints from 
+# CoHo constraints 
 The scale of cosmic homogeneity as a standard ruler arXiv:1810.09362
 
 Download package from https://www.cppm.in2p3.fr/~pntelis/ <br />
