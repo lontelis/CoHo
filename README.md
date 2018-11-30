@@ -3,10 +3,10 @@ The scale of cosmic homogeneity as a standard ruler
 
 # Installation
 Download package from https://www.cppm.in2p3.fr/~pntelis/ <br />
-use command 
-"""
+use command <br />
+```
 wget https://www.cppm.in2p3.fr/~pntelis/CoHoPublication.tar.gz
-"""
+```
 Follow instruction on the README file. <br />
 
 <br />
@@ -14,7 +14,7 @@ If you use this code please cite at least the following papers: <br />
 P.Ntelis et al 2018 https://arxiv.org/abs/1810.09362 <br />
 
 
-# Papers that use the aforementioned code package are:
+# Papers that use parts of the aforementioned code package are:
 
 The scale of cosmic homogeneity as a standard ruler <br />
 P.Ntelis et al 2018 https://arxiv.org/abs/1810.09362  <br /> <br />
