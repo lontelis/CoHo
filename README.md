@@ -1,4 +1,6 @@
-# CoHo constraints from ??
+# CoHo constraints from 
+The scale of cosmic homogeneity as a standard ruler
 
-Available after publication
-
+Download package from https://www.cppm.in2p3.fr/~pntelis/
+use command wget https://www.cppm.in2p3.fr/~pntelis/CoHoPublication.tar.gz
+Follow instruction on the README file.
