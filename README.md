@@ -10,7 +10,7 @@ wget https://www.cppm.in2p3.fr/~pntelis/CoHoPublication.tar.gz
 Follow instruction on the README file. <br />
 
 # Citation 
-If you use this code please cite at least the following papers: <br />
+If you use this code please cite at least the following paper: <br />
 P.Ntelis et al 2018 https://arxiv.org/abs/1810.09362 <br />
 <br />
 
